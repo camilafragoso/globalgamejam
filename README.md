@@ -8,3 +8,4 @@ Para jogar, deve-se baixar a pasta "Executable" e abrir o arquivo exe.
 
 Para editar o jogo, deve-se baixar a pasta "RunTheCode" e abrir com o Unity.
 
+https://globalgamejam.org/2020/games/run-code-7
